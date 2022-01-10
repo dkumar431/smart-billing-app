@@ -1,0 +1,25 @@
+.siteFooter{
+    height: 44px;
+    padding: 0px 30px;
+    background-color: #fff;
+    border-top: 1px solid #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    a img{
+        width: 50px;
+        margin-left: 3px;
+    }
+}
+.close {
+    margin-left: 50px;
+}
+
+.open {
+    margin-left: 240px;    
+}
+
+.footerLogo{
+    display: flex;
+    align-items: center;
+}

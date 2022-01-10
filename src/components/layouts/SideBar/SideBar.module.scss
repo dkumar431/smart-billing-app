@@ -1,0 +1,38 @@
+.logoText{
+    font-size: 1.2rem;
+    line-height: 50px;
+    font-weight: 400;
+    color: #fff;
+    span{
+        color: #08fb86;
+        margin-right: 5px;
+    }
+}
+
+.logo{
+    
+    img {
+        height: 2.5rem;
+        vertical-align: middle;
+        margin-right: 15px;
+    }
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+.notification{
+
+}
+.userSection{
+
+}
+.logout{
+    margin-right: 3px;
+    cursor: pointer;
+}
